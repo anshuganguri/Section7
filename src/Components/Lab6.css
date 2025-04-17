@@ -1,0 +1,6 @@
+table {
+    width: 100%; /* 100% - (10% left + 10% right) */
+    margin: 0 auto; /* Centers the table */
+    
+    
+}
